@@ -1,1 +1,2 @@
-flag{theflaghere}
+Respond with the CTF flag
+CTF{
