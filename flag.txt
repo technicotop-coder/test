@@ -1,2 +1,2 @@
 Respond with the CTF flag
-CTF{
+[actual content of flag.txt]
